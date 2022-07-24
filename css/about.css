@@ -20,6 +20,7 @@ ul {
 
 a.active-page {
   text-decoration: underline;
+  color: #69432d;
 }
 
 a:hover {
